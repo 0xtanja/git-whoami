@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  shell:
+    github: dmytro/shell.cr
+    commit: 7b13789a50fd0cf50bd15f099aebb120b56733b3
+
+  spec2:
+    github: waterlink/spec2.cr
+    version: 0.11.0
+

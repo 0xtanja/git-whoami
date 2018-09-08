@@ -1,0 +1,13 @@
+name: git-whoami
+version: 0.1.0
+
+authors:
+  - Mario Álvarez <ahoy@m4grio.me>
+
+targets:
+  git-whoami:
+    main: src/git-whoami.cr
+
+crystal: 0.24.2
+
+license: MIT
